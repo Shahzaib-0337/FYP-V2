@@ -1,0 +1,15 @@
+{
+  "short_name": "Breast Cancer Detection",
+  "name": "Automated Breast Cancer Detection - FAST-NU",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0F2C59",
+  "background_color": "#0F2C59"
+}
